@@ -1,0 +1,9 @@
+q.push(3);
+q.push(4);
+q.displayLL();
+q.pop();
+q.displayLL();
+q.pop();
+q.displayLL();
+q.pop();
+q.displayLL();
