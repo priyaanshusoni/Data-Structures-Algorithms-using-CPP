@@ -20,8 +20,8 @@ int main(){
 //    int *p = &n;
 
 //    int**ptr = &p;
-// // * means it points to the value of type int 
-// // ** means it points to the ptr type value and then that points to type int 
+// * means it points to the value of type int 
+// ** means it points to the ptr type value and then that points to type int 
 
 
 

@@ -12,15 +12,16 @@ int main(){
     cout<<&arr<<endl;
     cout<<&arr[0]<<endl;
     cout<<arr+0<<endl;
-
-
-   cout<<ptr<<endl;
+    cout<<ptr<<endl;
 
 
    //print the address of second element
 
     cout<<arr+1<<endl;
     cout<<&arr[1]<<endl;
+    cout<<"Address of Second Element is "<<ptr+1<<endl;
+
+cout<<"***************************************************************"<<endl;
 
     //print the value
     cout<<arr[0]<<endl;
@@ -29,6 +30,10 @@ int main(){
 
     cout<<*(ptr)<<endl;
     cout<<ptr[0]<<endl;
+
+
+cout<<"***************************************************************"<<endl;
+
 
     //Printing all addresses togtether 
 
@@ -42,6 +47,8 @@ int main(){
 
         cout<<&(i[arr])<<endl;
     }
+
+cout<<"*************************************************************************"<<endl;
 
     //printing all values together 
 
@@ -63,13 +70,14 @@ int main(){
 
 cout<<endl;
 
+cout<<"***************************************************************"<<endl;
 
 
 
-cout<<"Arithmatic Operation Of ptr*************************"<<endl;
+//Arithmetic Operations on ptr
 
 
-
+cout<<"Arithmetic Operations"<<endl;
   for(int i=0;i<5;i++){
         cout<<*ptr<<" ";
 
