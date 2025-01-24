@@ -1,4 +1,4 @@
-// Generating all the subseuences of a string whose length is exactly three an s are palindromes 
+// Generating all the subseuences of a string whose length is exactly three and s are palindromes 
 
 #include<iostream>
 #include<bits/stdc++.h>
